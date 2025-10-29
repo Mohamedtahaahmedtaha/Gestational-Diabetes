@@ -1,17 +1,17 @@
 # Gestational-Diabetes
-# 🤖 Gestational Diabetes Prediction using Machine Learning
+#  Gestational Diabetes Prediction using Machine Learning
 
 This project aims to predict the likelihood of gestational diabetes in pregnant women using a variety of machine learning models. Early detection of gestational diabetes is crucial for ensuring better health outcomes for both the mother and the baby. The system can serve as a support tool for medical professionals, especially in areas with limited access to regular screening.
 
 ---
 
-## 🧬 Problem Description
+## Problem Description
 
 **Gestational diabetes** is a type of high blood sugar that develops during pregnancy. If not detected and managed early, it can cause complications during and after childbirth. The goal of this project is to build and evaluate machine learning models that can accurately predict the risk of gestational diabetes based on clinical data collected from real patients.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: Collected from laboratories in the Kurdistan region.
 - **Features include**:
@@ -27,21 +27,21 @@ This project aims to predict the likelihood of gestational diabetes in pregnant 
 
 ---
 
-## ⚙️ Models Used
+## Models Used
 
 The following machine learning models were trained and compared:
 
-- 🔹 Logistic Regression  
-- 🌲 Decision Tree  
-- 🌳 Random Forest  
-- ⚡ XGBoost  
-- 🧠 Neural Network (built with Keras / TensorFlow)
+- Logistic Regression  
+- Decision Tree  
+- Random Forest  
+- XGBoost  
+- Neural Network (built with Keras / TensorFlow)
 
 Each model was evaluated using common classification metrics.
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -53,7 +53,7 @@ Each model was evaluated using common classification metrics.
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - **22%** of the women in the dataset were diagnosed with gestational diabetes.
 - The likelihood of developing the condition increases with:
